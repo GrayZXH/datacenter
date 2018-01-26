@@ -1,0 +1,10 @@
+body{
+	background-color: #e8e8e8;
+}
+nav, .navbar, .navbar-default{
+	margin-bottom: 0;
+}
+.calendar{
+	margin-top: 10px;
+	padding: 0 5px;
+}
